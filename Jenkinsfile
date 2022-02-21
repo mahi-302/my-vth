@@ -1,4 +1,4 @@
-Pipeline{
+pipeline{
   agent {label 'main'}
   stages{
     stage('Cleaning WS'){
