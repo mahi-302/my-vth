@@ -8,7 +8,7 @@ variable "function_name" {
 }
 variable "role" {
   type = string
-  default = "arn:aws:iam::697613968254:role/demo-Role"
+  default = "arn:aws:iam::204379001184:role/rolelbda"
 }
 variable "handler" {
   type = string
