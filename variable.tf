@@ -24,7 +24,7 @@ variable "runtime" {
 }
 variable "timeout" {
   type = string
-  default = "840"
+  default = "900"
 }
 variable "name" {
   type = string
